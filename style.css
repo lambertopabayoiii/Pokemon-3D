@@ -133,16 +133,7 @@ personal-data1{
     height: 300px;
     width: 270px;
 }
-.edu-background3{
-    color: black;
-    margin-top: 70px;
-    margin-left: 320px;
-    border: 3px outset black;
-    background-image: linear-gradient(to top, gray, white);
-    box-shadow: 5px 5px 1px 1px black;
-    height: 300px;
-    width: 270px;
-}
+
 .Personal-data2{
     width: 400px;
     height: 350px;
