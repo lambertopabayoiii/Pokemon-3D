@@ -222,3 +222,69 @@ footer{
     height:100px;
     background-color: black;
 }
+.travel-box1{
+  font-family: arial;
+  margin-left: 20px;
+  margin-top: 70px;
+  border: 5px cornflowerblue;
+  height: 700px;
+  width: 1018px; 
+}
+.travel-photo1{
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 0px white solid;
+    height: 350px;
+    width: 400px; 
+}
+.travel-text1{
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 5px white solid;
+    height: 255px;
+    width: 970px; 
+    font-size: 30px;
+    color: white;
+}
+.t-photo1{
+    height: 350px;
+    width: 400px;
+}
+
+.career-box1{
+    font-family: arial;
+    margin-left: 20px;
+    margin-top: 70px;
+    border: 5px white solid;
+    height: 700px;
+    width: 1018px; 
+}
+.career-photo1{
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 0px white solid;
+    height: 350px;
+    width: 400px; 
+}
+.career-text1{
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 5px white solid;
+    height: 255px;
+    width: 970px; 
+    color: white;
+    font-size: 35px;
+    font-family: cambria;
+}
+.c-photo1{
+    height: 350px;
+    width: 600px;
+}
+.c-photo2{
+    height: 350px;
+    width: 600px;
+}
+.c-photo3{
+    height: 350px;
+    width: 600px;
+}
