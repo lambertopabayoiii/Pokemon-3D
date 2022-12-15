@@ -166,3 +166,59 @@ main{
     width: 1018px;
     color: white;
 }
+
+.article3{
+
+    border: 5px solid black;
+    width: 100px;
+    height: 800px;
+    background-image: linear-gradient( to right bottom, white, hotpink);
+    color: white;
+     
+}
+.f-background{
+    border: 3px outset black;
+    background-image: linear-gradient(to top, gray, white);
+    box-shadow: 5px 1px black;
+    height:600px;
+    width: 800px;
+    margin-left: 125px;
+    margin-top: 70px;
+    color: black;
+}
+
+.family-photo{
+    margin: 20px;
+    border: 3px groove black;
+    background-color: black;
+    height: 250px;
+    width: 600px;
+    margin-left: 90px;
+}
+
+.family-picture{
+    height: 244px;
+    width: 593px;
+
+}
+
+.family-text{
+    border: 3px;
+    background-color: white;
+    height: 250px;
+    width: 700px;
+    margin-left: 50px;
+
+}
+
+.f-text{
+    font-size: 20px;
+    font-family: cursive;
+}
+
+footer{
+    position: relative;
+    width: 100px;
+    height:100px;
+    background-color: black;
+}
